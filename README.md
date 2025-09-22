@@ -56,4 +56,4 @@ Open http://localhost:8080 — you should notice snappier page loads in many cas
 
 ## License
 
-No license file is included in this repository.
+This project is licensed under the MIT License — see the LICENSE file for details.
